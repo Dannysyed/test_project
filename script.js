@@ -16,6 +16,10 @@ add('33')
 
         }
     }
+    let jj=function()
+{
+    console.log(`welcome to the application`);
+}
 console.log(objects);
 // cloneDeep(objects)
-console.log(objects);
+jj()
